@@ -157,3 +157,19 @@ p {
     color: #fff;
     background-color: #0D6EFD;
     border-color: #6c757d;
+}
+.card-img-top {
+  height: 260px;
+  width: auto;
+}
+.card {
+  overflow: hidden;
+}
+.card-body{
+  min-height: 15em;
+}
+.d-flex.justify-content-between.align-items-center{
+  bottom: 1em;
+  position: absolute;
+  width: 91%;
+}
